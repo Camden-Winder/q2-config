@@ -4,3 +4,4 @@ config_backups
 .moonraker*
 helixscreen
 MCU_ID.cfg
+RES_DATA
