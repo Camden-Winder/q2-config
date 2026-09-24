@@ -5,3 +5,4 @@ config_backups
 helixscreen
 MCU_ID.cfg
 RES_DATA
+mmu/mmu_vars.cfg
